@@ -1,0 +1,15 @@
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/bin/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/bin/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.deps.json
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/bin/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.runtimeconfig.json
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/bin/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.dll
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/bin/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.pdb
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.AssemblyInfoInputs.cache
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.AssemblyInfo.cs
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.csproj.CoreCompileInputs.cache
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.sourcelink.json
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.dll
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-BlakeLittleUA.dll
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.pdb
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/mis-221-lab-3-2nd-link-BlakeLittleUA.genruntimeconfig.cache
+/Users/admin/mis-221-lab-3-2nd-link-BlakeLittleUA/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-BlakeLittleUA.dll
